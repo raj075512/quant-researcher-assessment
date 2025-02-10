@@ -14,23 +14,8 @@ Would you like to **automate the notebook execution using a Python script?** �
 
 # **📌 Running Jupyter Notebook in a Folder (Windows Terminal)**  
 
-## **1️⃣ Open the Terminal & Navigate to Your Folder**  
 
-1. **Open Command Prompt (CMD) or Windows PowerShell:**  
-   - Press `Win + R`, type `cmd`, and hit `Enter`  
-   - Or, press `Win + X` and select `Windows PowerShell`  
-
-2. **Change Directory to Your Project Folder**  
-   - Use `cd` to navigate to the folder containing your Jupyter Notebook (`.ipynb` file).  
-   - Example: If your project is in `C:\Users\YourName\Documents\TradeReconciliation`, run:  
-     ```bash
-     cd C:\Users\YourName\Documents\TradeReconciliation
-     ```
-   - You can also **drag and drop** the folder into the terminal after typing `cd ` (with a space).  
-
----
-
-## **2️⃣ Start Jupyter Notebook in the Current Folder**  
+## ** Start Jupyter Notebook in the Current Folder**  
 
 Once you're inside the correct folder, start Jupyter Notebook by running:  
 ```bash
