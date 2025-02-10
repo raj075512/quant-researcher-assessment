@@ -60,7 +60,7 @@ u will get**
 ## **🚀 Next Steps**  
 Now that Jupyter is running:  
 ✅ Load trade data and execute reconciliation.  
-✅ Store results in **DuckDB (`trades.db`)**.  
+✅ Store results in **DuckDB (`trade_updates.db`)**.  
 ✅ Export reports for analysis.
 
 
