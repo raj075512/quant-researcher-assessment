@@ -46,12 +46,16 @@ u will get**
 
 
 **then this interface**
+
 ![image](https://github.com/user-attachments/assets/9876aa92-381a-48e0-813a-324d1d96ed87)
 
 
 **click on the assessment.ipynb file**
 **and run all**
 
+**final automatic configuration of files after running the code** 
+
+![image](https://github.com/user-attachments/assets/00413bc5-d890-483d-9c72-f4c0436d4d17)
 
 ## **🚀 Next Steps**  
 Now that Jupyter is running:  
